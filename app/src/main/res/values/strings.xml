@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Operacion-Item</string>
+
+    <!--Main-->
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Num1">Numero 1</string>
+    <string name="Num2">Numero 2</string>
+    <string name="BtnResultado">Resultado</string>
+
+    <string-array name="ArrayOperacion">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Division</item>
+        <item>Multiplicacion</item>
+    </string-array>
+
+    <!--Operacion-->
+
+    <string name="Resultado">El Resultado es: </string>
+
+</resources>
